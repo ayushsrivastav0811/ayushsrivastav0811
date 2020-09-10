@@ -23,8 +23,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ayush_s_404/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 </p>
 
-💬 student, self-taught coder
-🌱 learning Django. REST. VueJS . React
-🔭 intrested in web-development anything tech
-🖥 develops webapps. front-end works.
-🧩 likes cricket. listening song and obviously coding
+💬 student, self-taught coder<br>
+🌱 learning Django. REST. VueJS . React<br>
+🔭 intrested in web-development anything tech<br>
+🖥 develops webapps. front-end works.<br>
+🧩 likes cricket. listening song and obviously coding.<br>
+
