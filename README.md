@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 <p align='center'>
  💬 student, self-taught coder<br>
-🌱 learning Django. REST. VueJS . React<br>
-🔭 intrested in web-development anything tech<br>
-🖥 develops webapps. front-end works.<br>
-🧩 likes cricket. listening song and obviously coding<br>
+ 🌱 learning Django. REST. VueJS . React<br>
+ 🔭 intrested in web-development anything tech<br>
+ 🖥 develops webapps. front-end works.<br>
+ 🧩 likes cricket. listening song and obviously coding<br>
 </p>
