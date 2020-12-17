@@ -28,5 +28,5 @@ Here are some ideas to get you started:
  🌱 learning Django. REST . React<br>
  🔭 intrested in web-development anything tech<br>
  🖥 develops webapps. front-end works.<br>
- 🧩 likes cricket. listening song and obviously coding<br>
+<!--  🧩 likes cricket. listening song and obviously coding<br> -->
 </p>
