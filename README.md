@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ayush_s_404/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 </p>
 
-<!-- <p align='center'>
+ <p align='center'>
  💬 student, self-taught coder<br>
  🌱 I’m currently learning React<br>
  🔭 intrested in web-development anything tech<br>
  🖥 develops webapps. front-end works.<br>
 <!--  🧩 likes cricket. listening song and obviously coding<br> -->
 </p>
-<p align='center'>
+<!-- <p align='center'>
 <a href="https://www.linkedin.com/in/ayushsrivastav0811/" target="_blank" title="LinkedIn"><img height="28"  src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
   <a href="https://github.com/ayushsrivastav0811" target="_blank" title="Website"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/link.svg"></i></a>
 <a href="mailto:ayush08nov2000@gmail.com" target="_blank" title="Gmail"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg"></a>
