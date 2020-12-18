@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/ayush_s_404/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
  💬 student, self-taught coder<br>
  🌱 I’m currently learning React<br>
  🔭 intrested in web-development anything tech<br>
@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 <a href="https://wa.me/6387676227" target="_blank" title="Whatsapp"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/message-circle.svg"></a>
 <a href="https://www.instagram.com/ayush_s_404/" target="_blank" title="Instagram"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/instagram.svg"></i></a>
 </p>
+ -->
