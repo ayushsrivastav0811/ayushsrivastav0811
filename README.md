@@ -63,7 +63,7 @@ Here are some ideas to get you started:
   <p align="center">
     
 
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ayushsrivastav0811?label=Followers&style=social"> •   
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ayushsrivastav0811?label=Followers&style=social"> 
   <img src="https://img.shields.io/github/stars/ayushsrivastav0811?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 <p align="center">
