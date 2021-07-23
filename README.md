@@ -123,8 +123,67 @@ Here are some ideas to get you started:
 </p>
 </details>
 <br>
+<h1>
+  Connect With Me
+  <a target="_blank">
+    <img src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/Handshake.gif" height="25px" style="max-width:100%;">
+  </a>
+</h1>
 
-### Show some ❤️ by starring some of the repositories!
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/ayushsrivastav0811/" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/linkedin.svg"/></code>
+  </a>
+  <a href="https://www.facebook.com/ayush.srivastav.7792" target="_blank">
+    <code><img  height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/facebook.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/_ayush.srivastav_/?hl=en" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/instagram.svg"/></code>
+  </a>
+  <a href="https://twitter.com/Ayush_s_08" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/twitter.svg"/></code>
+  </a>
+  <a href="https://dev.to/ayushsrivastav0811">
+    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Srivastav DEV Profile" height="62" width="62"></code>
+  </a>     
+</p>
+<br/>
+
+<p align="center">
+   <a href="https://www.codechef.com/users/ayush_0811" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/cc.svg"/></code>
+  </a>    
+  
+  
+
+  <a href="https://codeforces.com/profile/ayush_0811" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/cf.png"/></code>
+  </a>
+
+  <a href="https://atcoder.jp/users/ayush_0811" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/he.svg"/></code>
+  </a>
+ 
+  <a href="https://www.hackerrank.com/ayushsrivastav01?hr_r=1" target="_blank">
+    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/hr.png"/></code>
+  </a>
+ 
+</p>
+
+<br/>
+<br/>
+
+
+
+
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
 
 </div>
+
+#
+
+![footer](https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/footer.png)
 
