@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/image.gif">
-</a>
+
 <h1 align="center">Hi <a target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
   </a>, I'm Ayush Srivastav</h1>
