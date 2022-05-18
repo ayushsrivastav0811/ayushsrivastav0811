@@ -156,7 +156,7 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-  <a href="https://leetcode.com/ayush_0811/" target="_blank">
+  <a href="https://leetcode.com/ayush_08/" target="_blank">
     <code><img height="60" width="60" src="https://raw.githubusercontent.com/ayushsrivastav0811/ayushsrivastav0811/master/lc.webp"/></code>
   </a>
    <a href="https://www.codechef.com/users/ayush_0811" target="_blank">
