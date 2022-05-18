@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 </p>
 </details>
   <p align="center">
-  <img width="75%" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/github-metrics.svg"/>
+
   <img src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/github-metrics.svg" width="75%"/>
 </p>
 <br>
