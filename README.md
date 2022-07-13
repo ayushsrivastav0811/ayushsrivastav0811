@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi <a target="_blank" rel="noopener noreferrer">
-<!--     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> -->
+     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   </a>, I'm Ayush Srivastav</h1>
 <h3 align="center">A Computer Science  Undergrad </h3>
 
