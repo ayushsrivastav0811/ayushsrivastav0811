@@ -160,9 +160,7 @@ Here are some ideas to get you started:
   
   
 
-  <a href="https://codeforces.com/profile/ayush_0811" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/cf.png"/></code>
-  </a>
+
 
   <a href="https://atcoder.jp/users/ayush_0811" target="_blank">
     <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/he.svg"/></code>
