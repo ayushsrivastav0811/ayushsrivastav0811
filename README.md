@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  <p align='center'>
  💬 student, self-taught coder<br>
  🌱 I’m currently learning Full Stack Web  Development<br>
- 🔭 intrested in web-development anything tech<br>
+ 🔭 interested in web-development anything tech<br>
  🖥 develops webapps. front-end works.<br>
   ⚡ Fun fact: **Best Part Of The Journey Is : It Ends**
 <!--  🧩 likes cricket. listening song and obviously coding<br> -->
