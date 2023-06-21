@@ -126,54 +126,26 @@ Here are some ideas to get you started:
   <img src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/github-metrics.svg" width="75%"/>
 </p>
 <br>
-<h1>
-  Connect With Me
-  <a target="_blank">
-    <img src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
-</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/ayushsrivastav0811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="" height="50" width="50" /></a>
+<a href="https://twitter.com/Ayush_s_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/ayushsrivastav0811/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="/" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/user" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12661831" height="50" width="50" /></a>
+<a href="https://fb.com/ayush.srivastav.7792" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="50" width="50" /></a>
+<a href="https://www.instagram.com/_ayush.srivastav_/?hl=en" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="50" width="50" /></a>
+<a href="https://www.codechef.com/users/ayush_0811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="" height="50" width="50" /></a>
+<a href="https://www.hackerrank.com/ayushsrivastav01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="" height="50" width="50" /></a>
+<a href="https://codeforces.com/profile/ayush_0811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="" height="50" width="50" /></a>
+<a href="https://www.leetcode.com/ayush_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="" height="50" width="50" /></a>
+<a href="https://www.hackerearth.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="" height="50" width="50" /></a>
 
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/ayushsrivastav0811/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/ayush.srivastav.7792" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/_ayush.srivastav_/?hl=en" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/Ayush_s_08" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/ayushsrivastav0811">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ayush Srivastav DEV Profile" height="62" width="62"></code>
-  </a>     
 </p>
-<br/>
 
-<p align="center">
-  <a href="https://leetcode.com/ayush_08/" target="_blank">
-    <code><img height="60" width="60" src="https://raw.githubusercontent.com/ayushsrivastav0811/ayushsrivastav0811/master/lc.webp"/></code>
-  </a>
-   <a href="https://www.codechef.com/users/ayush_0811" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/cc.svg"/></code>
-  </a>    
-  
   
 
 
 
-  <a href="https://atcoder.jp/users/ayush_0811" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/he.svg"/></code>
-  </a>
- 
-  <a href="https://www.hackerrank.com/ayushsrivastav01?hr_r=1" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/hr.png"/></code>
-  </a>
- 
-</p>
 
 <br/>
 <br/>
