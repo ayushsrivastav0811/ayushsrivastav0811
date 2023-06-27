@@ -1,37 +1,8 @@
-<!--
-**ayushsrivastav0811/ayushsrivastav0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">
-  <a id="user-content----𝐇𝐞𝐥𝐥𝐨-𝚌𝚘𝚍𝚎𝚛𝚜---" class="anchor" aria-hidden="true" href="#---𝐇𝐞𝐥𝐥𝐨-𝚌𝚘𝚍𝚎𝚛𝚜---">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
-      </path>
-    </svg>
-  </a>
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
-  <a target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
-  </a>
-</h1>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"><img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966" data-canonical-src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif" style="max-width:100%; "></a>
-
-<br/>
-<br/>
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-<h1 align="center"><b>Hi , I'm Ayush Srivastav </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<b>Hi , I'm Ayush Srivastav </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines==Full+Stack+Developer,;Competitive+programmer,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
@@ -86,9 +57,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-- **Languages**:
+ **Languages**:
   
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+   ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
      ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -96,7 +67,7 @@ Here are some ideas to get you started:
     ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <br>   
 
-- **Competitive Programming**:
+ **Competitive Programming**:
   
    <a href="https://www.codechef.com/users/ayush_0811" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"  /></a>
     <a href="https://codeforces.com/profile/ayush_0811" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"  /></a>
@@ -105,10 +76,10 @@ Here are some ideas to get you started:
    <a href="https://www.leetcode.com/ayush_08" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <br>
 
-- **Full-Stack Development**:
+ **Full-Stack Development**:
     
  
-    ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
      ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -116,9 +87,9 @@ Here are some ideas to get you started:
 
 <br>
 
-- **Softwares and Tools**:
+ **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
      ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -153,6 +124,21 @@ Here are some ideas to get you started:
   <img src="https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/github-metrics.svg" width="75%"/>
 </p>
 <br>
+
+### ✍️Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+
+
+### 🎶Spotify List
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31e7ybxwxetitpcb7nsfld3thuji)](https://open.spotify.com/user/31nqkd4reaju3zfynugqtqy5vyj4)
+  
+  
+### Funny Riddles , Test your brain 🤓
+
+[![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/CodeWhiteWeb/github-readme-riddle)
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://dev.to/ayushsrivastav0811" target="blank"><img align="center" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
@@ -186,3 +172,5 @@ Here are some ideas to get you started:
 
 ![footer](https://github.com/ayushsrivastav0811/ayushsrivastav0811/blob/master/footer.png)
 
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
