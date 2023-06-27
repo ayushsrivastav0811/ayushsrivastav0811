@@ -13,9 +13,9 @@
 <img align="right" height="300" width="450" alt="GIF" src="https://camo.githubusercontent.com/86a3b6db470f1a0429f7355c08d1edabf3d2c804/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
 <p align='center'>
 <a href="https://www.linkedin.com/in/ayushsrivastav0811/" target="_blank" title="LinkedIn"><img height="28"  src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667"></a>
-  <a href="https://github.com/ayushsrivastav0811" target="_blank" title="Website"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/link.svg"></i></a>
+  <a href="https://github.com/ayushsrivastav0811" target="_blank" title="Website"><img height="28" src="https://camo.githubusercontent.com/5f5cadad3e06f6dd96c64d4025e219856ae6f923799bc8ea4e628013de25724a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6769746875622e737667"></i></a>
 <a href="mailto:ayush08nov2000@gmail.com" target="_blank" title="Gmail"><img  height="28" src="https://camo.githubusercontent.com/08ce8f283f0af854f79945b0006dc2ff6f64e2e8afadce7f706878b6149bf439/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f7273732e737667"></a>
-<a href="https://wa.me/6387676227" target="_blank" title="Whatsapp"><img  height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/message-circle.svg"></a>
+<a href="https://wa.me/6387676227" target="_blank" title="Whatsapp"><img  height="28" src="https://camo.githubusercontent.com/5c2cde3cf295d3f55ed595c54bd5a9f923faa0ca72b0ea9e75aab5c68160ade6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e31332e302f69636f6e732f74656c656772616d2e737667"></a>
 <a href="https://www.instagram.com/_ayush.srivastav_/" target="_blank" title="Instagram"><img height="28" src="https://camo.githubusercontent.com/aecaf87326884e8b0466bb799265a13fee7586246ebda3e066cb7fad82a1fd23/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f696e7374616772616d2e737667"></i></a>
 </p>
 
