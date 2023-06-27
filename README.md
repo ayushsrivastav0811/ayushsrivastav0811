@@ -24,7 +24,7 @@
  🌱 I’m currently learning Full Stack Web  Development<br>
  🔭 interested in web development anything tech<br>
  🖥 develops web apps. front-end works.<br>
-  ⚡ Fun fact: **Best Part Of The Journey Is: It Ends**
+  ⚡ Fun fact:  Best Part Of The Journey Is: It Ends 
 <!--  🧩 likes cricket. listening song and obviously coding<br> -->
 </p>
 <!-- <p align='center'>
@@ -111,12 +111,23 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/ayushsrivastav0811">
+   <a href="https://github.com/ayushsrivastav0811">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushsrivastav0811&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/ayushsrivastav0811">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsrivastav0811&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
+  </a> 
+  
+  
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayushsrivastav0811&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </p>
 </details>
   <p align="center">
